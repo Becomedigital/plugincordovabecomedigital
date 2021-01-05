@@ -11,8 +11,8 @@ Para la instalación del plugin debe utilizar el comando **plugman**, los pasos 
 
 Para realizar este paso debe utilizar el siguiente comando:
 
-    plugman install --platform android --project platforms/android --plugin
-
+ plugman install --platform android --project platforms/android --plugin https://github.com/Becomedigital/plugincordovabecomedigital
+ 
 ## Requerimientos necesarios para el uso del plugin
 
 **1. Debe integrar en la plataforma Andorid la SDK de Become Android.**
